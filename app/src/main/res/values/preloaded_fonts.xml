@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/amarante</item>
+        <item>@font/cabin_sketch</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/lobster_two</item>
+        <item>@font/roboto_slab</item>
+        <item>@font/roboto_slab_thin</item>
+    </array>
+</resources>
